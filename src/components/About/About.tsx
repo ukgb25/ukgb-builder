@@ -16,7 +16,7 @@ const About = (props: Props) => {
             <div className="col-lg-6">
               <div className="about-content">
                 <h4>
-                  WE ARE ON EXPERT <br />
+                  WE ARE ON NOT EXPERT <br />
                   THIS FIELD BUILDINGS
                   <br />
                   SOLUTIONS SINCE 1974.
