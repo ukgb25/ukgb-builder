@@ -37,11 +37,11 @@ const MainMenu = (props: Props) => {
                 Home
               </Link>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <Link className="nav-link" href="/about-us">
                 About
               </Link>
-            </li>
+            </li> */}
             <li className="nav-item">
               <Link className="nav-link" href="/services">
                 Services
@@ -83,7 +83,7 @@ const MainMenu = (props: Props) => {
             </li>
           </ul>
         </div>
-        <div className="right-button">
+        {/* <div className="right-button">
           <ul>
             <li className="shop-icon">
               <a href="#">
@@ -97,7 +97,7 @@ const MainMenu = (props: Props) => {
               </a>
             </li>
           </ul>
-        </div>
+        </div> */}
       </div>
     </nav>
   </div>
