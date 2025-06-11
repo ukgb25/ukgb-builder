@@ -8,12 +8,11 @@ const TopNav = (props: Props) => {
           <div className="container">
             <div className="float-left">
               <a className="dn_btn" href="">
-                <i className="ti-mobile"></i>+1 (205) 325-1235
+                <i className="ti-mobile"></i>+44 7935 396708
               </a>
               <span className="dn_btn">
                 {" "}
-                <i className="ti-location-pin"></i> 4256 Marshville Road,
-                Poughkeepsie, NY 12601
+                <i className="ti-location-pin"></i> 147 Brighton Rd, South Croydon CR2 6EH
               </span>
             </div>
             <div className="float-right">
@@ -24,26 +23,26 @@ const TopNav = (props: Props) => {
                     <i className="ti-facebook"></i>
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a href="#">
                     <i className="ti-twitter"></i>
                   </a>
-                </li>
+                </li> */}
                 <li>
                   <a href="#">
                     <i className="ti-instagram"></i>
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a href="#">
                     <i className="ti-skype"></i>
                   </a>
-                </li>
-                <li>
+                </li> */}
+                {/* <li>
                   <a href="#">
                     <i className="ti-vimeo"></i>
                   </a>
-                </li>
+                </li> */}
               </ul>
             </div>
           </div>
