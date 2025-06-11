@@ -52,7 +52,7 @@ const MainMenu = (props: Props) => {
                 Projects
               </Link>
             </li>
-            <li className="nav-item submenu dropdown">
+            {/* <li className="nav-item submenu dropdown">
               <a
                 href="#"
                 className="nav-link dropdown-toggle"
@@ -75,7 +75,7 @@ const MainMenu = (props: Props) => {
                   </Link>
                 </li>
               </ul>
-            </li>
+            </li> */}
             <li className="nav-item">
               <Link className="nav-link" href="/contact">
                 Contact
