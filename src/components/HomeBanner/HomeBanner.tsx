@@ -21,7 +21,7 @@ const HomeBanner = (props: Props) => {
               <h3>
                 Make your dream home
                 <br />
-                with sintac
+                with UKGB
               </h3>
               <a className="main_btn" href="#">
                 get a quote

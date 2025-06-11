@@ -63,16 +63,16 @@ const Footer = (props: Props) => {
                 <h6 className="mb-20">Business Hours</h6>
                 <ul className="business-hour">
                   <li>
-                    Monday - Friday : <span>9:00 am - 18:00 pm</span>{" "}
+                    Monday - Saturday : <span>9:00 am - 19:00 pm</span>{" "}
                   </li>
-                  <li>
-                    Saturday :<span>9:00 am - 16:00 pm</span>
-                  </li>
+                  {/* <li>
+                    Saturday :<span>9:00 am - 19:00 pm</span>
+                  </li> */}
                   <li>
                     Sunday :<span>Closed</span>
                   </li>
                 </ul>
-                <p>We work all the holidays!</p>
+                {/* <p>We work all the holidays!</p> */}
               </div>
             </div>
             <div className="col-lg-4  col-md-12">
@@ -120,13 +120,14 @@ const Footer = (props: Props) => {
             <div className="row ">
               <p className="col-lg-12 footer-text ">
                 Copyright &copy;
-                2023 All
-                rights reserved | This template is made with{" "}
+                2025 All
+                rights reserved </p>
+                {/* | This template is made with{" "}
                 <i className="fa fa-heart" aria-hidden="true"></i> by{" "}
                 <a href="https://colorlib.com" target="_blank">
                   Colorlib
                 </a>
-              </p>
+              </p> */}
             </div>
           </div>
         </div>
