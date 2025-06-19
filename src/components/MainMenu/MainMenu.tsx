@@ -11,7 +11,7 @@ const MainMenu = (props: Props) => {
     <nav className="navbar navbar-expand-lg navbar-light">
       <div className="container">
         <Link className="navbar-brand logo_h" href="/">
-          <Image src="/images/UKGB_LOGO.jpg" alt="" width={165} height={80} />
+          <Image src="/images/UKGB_LOGO.jpg" alt="" width={165} height={90} />
         </Link>
         <button
           className="navbar-toggler"
