@@ -19,9 +19,7 @@ const HomeBanner = (props: Props) => {
             <div className="banner_content text-center">
               <span>Future construction</span>
               <h3>
-                We Dont Buid Homes, 
-                <br />
-                We Buid Memories
+                We Don't Buid Homes, We Buid Memories
               </h3>
               <a className="main_btn" href="">
                 get a quote

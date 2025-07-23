@@ -453,7 +453,7 @@ ul {
 }
 .home_banner_area .banner_inner .banner_content span {
   font-size: 24px;
-  color: #fff;
+  color: #000000;
   font-family: "Heebo", sans-serif;
   text-transform: uppercase;
   margin-bottom: 24px;
@@ -468,7 +468,7 @@ ul {
   transform: translateX(-50%);
   width: 100px;
   height: 1px;
-  background: #fff;
+  background: #000000;
 }
 .home_banner_area .banner_inner .banner_content h3 {
   font-size: 60px;
