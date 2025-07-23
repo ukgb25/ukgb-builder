@@ -29,7 +29,7 @@ const TopNav = (props: Props) => {
                   </a>
                 </li> */}
                 <li>
-                  <a href="#">
+                  <a href="https://www.instagram.com/ukgb_official/?next=%2F">
                     <i className="ti-instagram"></i>
                   </a>
                 </li>
