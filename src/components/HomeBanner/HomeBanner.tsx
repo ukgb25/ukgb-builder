@@ -9,7 +9,7 @@ const HomeBanner = (props: Props) => {
 
         <Parallax
           blur={0}
-          bgImage="/images/home-banner.jpg.webp"
+          // bgImage="/images/home-banner.jpg.webp"
           bgImageAlt="home banner"
           strength={100}
           className="container-fluid banner_inner d-flex"
@@ -23,7 +23,7 @@ const HomeBanner = (props: Props) => {
                 <br />
                 We Buid Memories
               </h3>
-              <a className="main_btn" href="#">
+              <a className="main_btn" href="">
                 get a quote
               </a>
             </div>
